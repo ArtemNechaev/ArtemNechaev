@@ -1,6 +1,11 @@
-### Hi there 👋
+### Certificates
 
 ![Симулятор](https://drive.google.com/uc?id=133eaE7HcX1astS8-8DH5_kzlgk_Rg1UQ)
+![Airflow](https://drive.google.com/uc?id=13FPDFQBIJAHO1GpC2Ux3e6eFk2UkCsbi)
+![CV](https://drive.google.com/uc?id=1-1F3w8-VtIicUBuQMXofUWUMl8WaJyjs)
+![NLP](https://drive.google.com/uc?id=1-44nS51TRR4NBJKCccwfRWrfPZpkD-6h)
+![Stat](https://drive.google.com/uc?id=1poo_Y_h7YEoZjnUDEBm9DFV66fYbqrWx)
+
 
 
 <!--
