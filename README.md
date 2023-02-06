@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Симулятор](https://drive.google.com/uc?id=133eaE7HcX1astS8-8DH5_kzlgk_Rg1UQ")
+![Симулятор](https://drive.google.com/uc?id=133eaE7HcX1astS8-8DH5_kzlgk_Rg1UQ)
 
 
 <!--
