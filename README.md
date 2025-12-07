@@ -1,5 +1,5 @@
 ### About me
-I am engaged in data analytics and ML. I have 2 years of experience working with Python, SQL and the main ML, DL libraries.
+ML engineer
 
 
 <!--![Airflow](https://user-images.githubusercontent.com/62764290/216893848-267c09c5-ef6a-4b14-887c-0c0eedc6dc58.PNG)
